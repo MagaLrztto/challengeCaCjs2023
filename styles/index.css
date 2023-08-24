@@ -1,0 +1,17 @@
+article {
+    display: flexbox;
+}
+
+article section h2{
+    font-family: 'Raleway', sans-serif;
+    ;
+}
+
+article a{
+    text-decoration: none;
+
+}
+
+article p{
+    border-bottom: 3px solid #FF3333;
+}

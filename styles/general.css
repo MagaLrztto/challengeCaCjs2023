@@ -1,7 +1,24 @@
-header {
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
 
+header {
+    background-color: #30343F;
+    padding: 1rem
+}
+
+nav a{
+    color: #FFFFFF;
+    text-decoration: none;
 }
 
 footer {
+    background-color: #30343F;
+}
 
+footer p {
+    color:#FFFFFF
 }
